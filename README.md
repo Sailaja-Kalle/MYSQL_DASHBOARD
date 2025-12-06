@@ -44,7 +44,7 @@ It includes data cleaning, schema corrections, KPI calculations, and generating 
 
 ## MYSQL QUERIES
 
-Dashboard Interaction <a href="  ">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/Sailaja-Kalle/MYSQL_DASHBOARD/blob/main/MYSQL_QUERIES_1.png ">View Dashboard</a>
 
 Dashboard Interaction <a href=" ">View Dashboard</a>
 
